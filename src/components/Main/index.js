@@ -32,7 +32,7 @@ export default function Main() {
     setUploaded(4);
     setTimeout(() => {
       setUploaded(3);
-    }, 5000);
+    }, 15000);
   }
 
   function handleDownload() {
